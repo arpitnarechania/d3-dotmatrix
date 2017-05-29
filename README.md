@@ -29,6 +29,26 @@ DotMatrixChart:
 <div id="DotMatrix"></div>
 ```
 
+```Data
+
+    var dataset =
+    [
+        { group: "Group 1" ,category: "Category 1", count: 48},
+        { group: "Group 1" ,category: "Category 2", count: 27},
+        { group: "Group 1" ,category: "Category 3", count: 12},
+        { group: "Group 1" ,category: "Category 4", count: 16},
+        { group: "Group 2" ,category: "Category 1", count: 35},
+        { group: "Group 2" ,category: "Category 2", count: 12},
+        { group: "Group 2" ,category: "Category 3", count: 16},
+        { group: "Group 2" ,category: "Category 4", count: 42},
+        { group: "Group 3" ,category: "Category 1", count: 39},
+        { group: "Group 3" ,category: "Category 2", count: 25},
+        { group: "Group 3" ,category: "Category 3", count: 26},
+        { group: "Group 3" ,category: "Category 4", count: 46},
+    ];
+
+```
+
 Setting chart parameters
 ``` javascript
 
