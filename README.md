@@ -61,7 +61,7 @@ Setting chart parameters
             dot_padding_bottom : 5
 		}
 
-g        DotMatrixChart(dataset,chart_options);
+        DotMatrixChart(dataset,chart_options);
 
 ```
 
